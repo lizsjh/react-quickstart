@@ -1,4 +1,7 @@
-npm i
+npm install
+npm cache clean
+npm install -g npm
+npm install
 npm run dev-js
 
 {
